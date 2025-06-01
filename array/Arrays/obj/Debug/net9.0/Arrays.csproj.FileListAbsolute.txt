@@ -12,3 +12,4 @@ C:\Users\andre farias\OneDrive\Área de Trabalho\CursoC#\array\Arrays\obj\Debug\
 C:\Users\andre farias\OneDrive\Área de Trabalho\CursoC#\array\Arrays\obj\Debug\net9.0\Arrays.pdb
 C:\Users\andre farias\OneDrive\Área de Trabalho\CursoC#\array\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
 C:\Users\andre farias\OneDrive\Área de Trabalho\CursoC#\array\Arrays\obj\Debug\net9.0\ref\Arrays.dll
+C:\Users\andre farias\OneDrive\Área de Trabalho\CursoC#\array\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
